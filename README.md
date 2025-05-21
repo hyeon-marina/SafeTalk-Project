@@ -80,3 +80,20 @@ SafeTalk는 사이버 괴롭힘/혐오 표현을 실시간 감지하고, 피해�
 - 5월: 기획 및 Figma 설계
 - 6월: 개발 환경 구축 및 핵심 기능 구현 시작
 - 7~8월: 감정 분석 기능 연동 및 기록 저장, 최종 배포
+
+---
+
+## 📎 ドキュメントリンク / Document Links / 문서 링크
+
+### 📁 docs/
+
+- [📄 プロジェクト概要 / Project Overview](./docs/project-overview.md)
+- [🔄 ユーザーフロー / User Flow](./docs/user-flow.md)
+- [🛠️ アーキテクチャ構成 / System Architecture](./docs/architecture.md)
+- [🌐 多言語対応設計 / i18n Structure](./docs/i18n-structure.md)
+- [🔔 通知システム設計 / Alert System](./docs/alert-system.md)
+
+### 📁 planning/
+
+- [🧩 機能定義書 / Feature Specification](./planning/feature-spec.md)
+- [⏳ 開発スケジュール / Development Timeline](./planning/timeline.md)
